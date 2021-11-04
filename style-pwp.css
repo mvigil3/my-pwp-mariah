@@ -9,5 +9,27 @@
 }
 
 body{
-    background: url ()
+    background: url('images/elise-wilcox-unsplash.jpg') no-repeat top center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.wrapper{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    padding: 0 20px;
+}
+
+.contact-form{
+    max-width: 550px;
+    margin: 0 auto;
+    background: rgba(0,0,0,0.8);
+    padding: 30px;
+    border-radius: 5px;\
+    display: flex;
+    box-shadow: 0 0 10px rgba(0,0,0,0.8);
+
+
 }
