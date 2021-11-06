@@ -16,7 +16,7 @@ body{
 
 .heading-content{
     position: absolute;
-    top: 40%;
+    top: 50%;
     width: 100%;
     max-width: 100%;
 }
@@ -27,6 +27,21 @@ body{
     font-family: monospace;
 }
 
+.heading-content h1{
+    font-size: 4em;
+    font-weight: bolder;
+    color: #fff;
+    font-family: monospace;
+}
+
+.heading-content p{
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: lighter;
+    color: #ccc;
+    font-family: monospace;
+    word-spacing: 5px;
+}
 .wrapper{
     position: absolute;
     top: 50%;
