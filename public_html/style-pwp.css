@@ -24,24 +24,40 @@ body{
     font-size: 3em;
     font-weight: 300;
     color: #fff;
-    font-family: monospace;
+    font-family: 'Poppins', sans-serif;
 }
 
 .heading-content h1{
     font-size: 4em;
     font-weight: bolder;
     color: #fff;
-    font-family: monospace;
+    font-family: 'Poppins', sans-serif;
 }
 
 .heading-content p{
     font-size: 1em;
     text-transform: uppercase;
     font-weight: lighter;
-    color: #ccc;
-    font-family: monospace;
+    color: #e5a88b;
+    font-family: 'Roboto', sans-serif;
     word-spacing: 5px;
 }
+
+.about-me h2{
+    color: #465244;
+    font-family: 'Roboto', sans-serif;
+}
+
+.me-photo img{
+    display: flex;
+    margin: auto;
+}
+.about-me p{
+    color: ;
+    font-family: 'Roboto', sans-serif;
+
+}
+
 .wrapper{
     width: 100%;
     padding: 0 20px;
