@@ -1,5 +1,4 @@
 $(document).ready(function (){
-    document.getElementById("contact")
     $("#contact").validate({
         debug:true,
         errorClass:"alert alert-danger",
