@@ -59,39 +59,18 @@ body{
     word-spacing: 5px;
     max-width: 100%;
 }
-.about-me{
-    width: 100% !important;
-}
-
-.about-me h2{
-    color: #465244;
-    font-family: 'Roboto', sans-serif;
-}
-
-.me-photo{
-    display: flex;
-    width: 100%;
-    height: auto;
-    justify-content: left;
-    align-items: center;
-}
-.about-me p{
-    display: flex;
-    font-family: 'Roboto', sans-serif;
-    justify-content: flex-end;
-    margin-left: auto;
-}
 
 .card-img-top{
     object-fit: cover;
     max-height: 200px;
+    height: 100%;
 }
 
 .wrapper{
     width: 100%;
     padding:20px;
     max-width: 100%;
-    background: url('images/elise-wilcox-unsplash.jpg')
+    background: #e5a88b;
 }
 
 .contact-form{
